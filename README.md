@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 ## 📬 Get in touch
 
 - Email: <a href="mailto:abubaker.tagelsir@gmail.com">abubaker.tagelsir@gmail.com</a>
-- LinkedIn: [linkedin.com/in/abubakertagelsir] [1]
+- LinkedIn: [linkedin.com/in/abubakertagelsir][1]
 
 ## &#x1f4c8; My GitHub Stats
 
