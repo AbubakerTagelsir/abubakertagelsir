@@ -14,3 +14,29 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+
+I am a Software Engineer. I am interested in building web and mobile applications, I have a good experience building ERP systems also.
+
+
+
+
+## 📬 Get in touch
+
+- Email: [abubaker.tagelsir@gmail.com][1]
+- LinkedIn: [linkedin.com/in/abubakertagelsir][2]
+I am familiar with including **Python**, **JavaScript**, **Flutter**, **Native Android**, **ReactJS**, and
+**NodeJS**. I also have functional knowledge of **Odoo ERP**, If you need any help with any of those don't hesitate contacting me.
+
+## &#x1f4c8; My GitHub Stats
+
+<a href="https://github.com/natterstefan/natterstefan">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=natterstefan&hide=java,html&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+</a>
+
+<a href="https://github.com/natterstefan/natterstefan">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=abubakertagelsir&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Catalin's GitHub Stats" />
+</a>
+
+[1]: https://www.linkedin.com/in/abubakertagelsir
