@@ -19,10 +19,10 @@ Here are some ideas to get you started:
 
 - I am a Software Engineer. I am interested in building web and mobile applications, I have a good experience building ERP systems also.
 
-- 🌱 I’m currently learning more about Flutter app development and microservice architecture.
-
 - 👯 I am familiar with **Python**, **JavaScript**, **Flutter**, **Native Android**, **ReactJS**, and
 **NodeJS**. I also have functional knowledge of **Odoo ERP**, If you need any help with any of those don't hesitate contacting me.
+
+- 🌱 I’m currently learning more about Flutter app development and microservice architecture.
 
 
 
