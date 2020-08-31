@@ -17,7 +17,9 @@ Here are some ideas to get you started:
 
 
 
-I am a Software Engineer. I am interested in building web and mobile applications, I have a good experience building ERP systems also.
+- I am a Software Engineer. I am interested in building web and mobile applications, I have a good experience building ERP systems also.
+
+- 🌱 I’m currently learning more about Flutter app development and microservice architecture.
 
 
 
@@ -32,10 +34,10 @@ I am familiar with including **Python**, **JavaScript**, **Flutter**, **Native A
 ## &#x1f4c8; My GitHub Stats
 
 <a href="https://github.com/abubakertagelsir/abubakertagelsir">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abubakertagelsir&hide=java,html&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abubakertagelsir&hide=java&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
 
-<a href="https://github.com/natterstefan/natterstefan">
+<a href="https://github.com/abubakertagelsir/abubakertagelsir">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=abubakertagelsir&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Catalin's GitHub Stats" />
 </a>
 
